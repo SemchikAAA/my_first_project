@@ -1,3 +1,3 @@
 # my_first_project
 
-#git status check
+# git status check
